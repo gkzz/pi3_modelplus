@@ -1,0 +1,20 @@
+# general
+.
+..
+__pycache__
+*.pyc
+
+
+# python virtual env
+27
+36
+37
+
+
+#yml
+*.yml
+*.txt
+
+
+#editor
+.vscode
