@@ -1,4 +1,5 @@
 # Headless Pi3 Model + Setup
+<img src="/demo/login.JPG" alt="Demo to ssh login" style="max-width:100%;">
 
 ## Technology Used
 - Raspbian GNU/Linux 10 (buster)
